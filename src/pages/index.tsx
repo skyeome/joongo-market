@@ -9,8 +9,6 @@ const Home: NextPageWithLayout = () => {
       <Head>
         <title>중고 마켓</title>
         <meta name="description" content="중고 마켓 홈페이지 입니다." />
-        <meta name="viewport" content="width=device-width, initial-scale=1" />
-        <link rel="icon" href="/favicon.ico" />
       </Head>
       <div>applayout</div>
     </>
