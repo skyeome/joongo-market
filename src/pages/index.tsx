@@ -1,6 +1,6 @@
 import Head from "next/head";
-import { NextPageWithLayout } from "./_app";
-import { ReactElement } from "react";
+import type { NextPageWithLayout } from "./_app";
+import type { ReactElement } from "react";
 import Layout from "../components/commons/layout";
 
 const Home: NextPageWithLayout = () => {

@@ -2,7 +2,7 @@
 
 import styled from "@emotion/styled";
 
-const AppLayout = (props: { children: React.ReactNode }) => {
+const AppLayout = (props: { children: React.ReactNode }): JSX.Element => {
   return <FixedWidth>{props.children}</FixedWidth>;
 };
 
